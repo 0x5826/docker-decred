@@ -1,2 +1,2 @@
 # docker-decred-experimental
-docker-decred-experimental
+docker decred for experimental!
