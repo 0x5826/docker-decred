@@ -7,7 +7,7 @@ LABEL maintainer "0x5826"
 # docker build -t 0x5826/decred:v1.6.0-rc5.
 
 # Decred general info
-ENV DECRED_VERSION v1.6.0-rc4
+ENV DECRED_VERSION v1.6.0-rc5
 ENV DECRED_USER decred
 ENV DECRED_GROUP decred
 ENV DECRED_INSTALL /usr/local/decred
