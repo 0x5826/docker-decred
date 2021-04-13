@@ -1,13 +1,13 @@
 FROM ubuntu:bionic
 LABEL description="Docker Decred image"
-LABEL version="1.6.1"
+LABEL version="1.6.2"
 LABEL maintainer "0x5826"
 
 # Build command
 # docker build -t 0x5826/decred:v1.6.1.
 
 # Decred general info
-ENV DECRED_VERSION v1.6.1
+ENV DECRED_VERSION v1.6.2
 ENV DECRED_USER decred
 ENV DECRED_GROUP decred
 ENV DECRED_INSTALL /usr/local/decred
